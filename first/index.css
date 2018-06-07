@@ -1,0 +1,30 @@
+header {
+    width: 100%;
+    height: 10vh;   
+    background-color: #484a4b;
+}
+main {
+    width: 100%;
+    height: 80vh;
+    background-color: #ffffff;
+    margin:auto;
+}
+h1 {
+    width: 20%;
+    height: 90vh;
+    background-color: #949494;
+    float: left;
+}
+h2 {
+    width: 20%;
+    height: 90vh;
+    background-color: #949494;
+    float: right;
+}
+footer {
+    width: 60%;
+    height: 10vh;
+    background-color: #1e2020;
+    bottom: 0;
+    margin: auto;
+}
